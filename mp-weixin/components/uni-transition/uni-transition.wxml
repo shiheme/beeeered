@@ -1,0 +1,1 @@
+<movable-view data-ref="ani" data-event-opts="{{[['tap',[['change',['$event']]]]]}}" hidden="{{!(isShow)}}" class="{{['uni-transition','vue-ref',[ani.in]+' '+newss+' '+addclass]}}" style="{{('transform:'+transform+';'+stylesObject)}}" bindtap="__e"><slot></slot></movable-view>

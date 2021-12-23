@@ -1,0 +1,15 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "backgroundTextStyle": "dark",
+  "disableScroll": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "bee-cell-item": "/components/bee-cell-item/bee-cell-item",
+    "u-switch": "/components/u-switch/u-switch",
+    "bee-block": "/components/bee-block/bee-block",
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}

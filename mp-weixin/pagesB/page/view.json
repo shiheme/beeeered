@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page"
+  }
+}

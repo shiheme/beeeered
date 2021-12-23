@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "bee-content": "/components/bee-content/bee-content",
+    "bee-load-more": "/components/bee-load-more/bee-load-more"
+  }
+}

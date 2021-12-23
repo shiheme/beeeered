@@ -1,0 +1,17 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "backgroundTextStyle": "dark",
+  "disableScroll": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "bee-side": "/components/bee-side/bee-side",
+    "bee-footer": "/components/bee-footer/bee-footer",
+    "bee-page-home": "/components/bee-page-home/bee-page-home",
+    "bee-page-find": "/components/bee-page-find/bee-page-find",
+    "bee-page-post": "/components/bee-page-post/bee-page-post",
+    "bee-page-my": "/components/bee-page-my/bee-page-my"
+  }
+}

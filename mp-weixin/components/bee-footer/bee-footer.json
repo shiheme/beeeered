@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "bee-block": "/components/bee-block/bee-block"
+  },
+  "component": true
+}

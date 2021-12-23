@@ -1,0 +1,25 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "backgroundTextStyle": "dark",
+  "disableScroll": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "bee-page": "/components/bee-page/bee-page",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "bee-block": "/components/bee-block/bee-block",
+    "mp-html": "/components/mp-html/mp-html",
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "bee-cell-item": "/components/bee-cell-item/bee-cell-item",
+    "u-tabs": "/components/u-tabs/u-tabs",
+    "bee-sharebox": "/components/bee-sharebox/bee-sharebox",
+    "bee-content": "/components/bee-content/bee-content",
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "bee-cell-comments": "/components/bee-cell-comments/bee-cell-comments",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "bee-facecanvas": "/components/bee-facecanvas/bee-facecanvas",
+    "t-color-picker": "/components/t-color-picker/t-color-picker",
+    "bee-imgcrop": "/components/bee-imgcrop/bee-imgcrop",
+    "zaudio": "/components/bee-zaudio/bee-zaudio"
+  }
+}

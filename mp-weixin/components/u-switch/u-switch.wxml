@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="{{['u-switch','data-v-0dca6f16',value==true?'u-switch--on':'',disabled?'u-switch--disabled':'']}}" style="{{$root.s0}}" bindtap="__e"><view class="u-switch__node node-class data-v-0dca6f16"></view></view>

@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "active/active",
+        "mycell/mycell",
+        "search/search"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "page/page",
+        "page/view",
+        "single/single"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "@navBgColor",
+    "navigationBarTextStyle": "@navTxtStyle",
+    "backgroundColor": "@bgColor",
+    "backgroundTextStyle": "@bgTxtStyle",
+    "backgroundColorTop": "@bgColorTop",
+    "backgroundColorBottom": "@bgColorBottom"
+  },
+  "preloadRule": {
+    "pages/index/index": {
+      "network": "all",
+      "packages": [
+        "pagesA",
+        "pagesB"
+      ]
+    },
+    "pagesA/active/active": {
+      "network": "all",
+      "packages": [
+        "pagesB"
+      ]
+    }
+  },
+  "darkmode": true,
+  "themeLocation": "theme.json",
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小程序将使用定位功能"
+    }
+  },
+  "usingComponents": {
+    "painter": "/wxcomponents/painter/painter"
+  },
+  "sitemapLocation": "sitemap.json"
+}

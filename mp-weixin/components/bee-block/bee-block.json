@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "cz-countdown": "/components/cz-countdown/cz-countdown",
+    "mp-html": "/components/mp-html/mp-html",
+    "myaudio": "/components/mp-html/audio/audio",
+    "zaudio": "/components/bee-zaudio/bee-zaudio"
+  }
+}

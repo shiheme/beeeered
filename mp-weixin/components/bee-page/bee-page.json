@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-loading": "/components/u-loading/u-loading",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "bee-auth": "/components/bee-auth/bee-auth"
+  },
+  "component": true
+}

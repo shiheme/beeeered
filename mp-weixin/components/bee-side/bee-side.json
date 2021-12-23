@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "bee-cell-item": "/components/bee-cell-item/bee-cell-item"
+  },
+  "component": true
+}

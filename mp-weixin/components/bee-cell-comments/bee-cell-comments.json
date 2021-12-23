@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "bee-load-more": "/components/bee-load-more/bee-load-more",
+    "bee-icon": "/components/bee-icon/bee-icon"
+  },
+  "component": true
+}

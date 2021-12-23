@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "bee-weather": "/components/bee-weather/bee-weather",
+    "bee-block": "/components/bee-block/bee-block",
+    "bee-cell-item": "/components/bee-cell-item/bee-cell-item",
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "u-switch": "/components/u-switch/u-switch",
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  },
+  "component": true
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/u-switch/u-switch"],{"13b0":function(t,e,n){},"168f":function(t,e,n){"use strict";var i;n.d(e,"b",(function(){return a})),n.d(e,"c",(function(){return u})),n.d(e,"a",(function(){return i}));var a=function(){var t=this,e=t.$createElement,n=(t._self._c,t.__get_style([t.switchStyle]));t.$mp.data=Object.assign({},{$root:{s0:n}})},u=[]},4922:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var i={name:"u-switch",props:{loading:{type:Boolean,default:!1},disabled:{type:Boolean,default:!1},size:{type:[Number,String],default:50},activeColor:{type:String,default:"#2979ff"},unactiveColor:{type:String,default:"#ffffff"},value:{type:Boolean,default:!1}},data:function(){return{}},computed:{switchStyle:function(){var t={};return t.fontSize=this.size+"rpx",t.backgroundColor=this.value?this.activeColor:this.unactiveColor,t},loadingColor:function(){return this.value?this.activeColor:""}},methods:{onClick:function(){this.disabled||this.loading||(this.$emit("input",!this.value),this.$nextTick((function(){this.$emit("change",this.value)})))}}};e.default=i},"581b":function(t,e,n){"use strict";n.r(e);var i=n("168f"),a=n("ea5a");for(var u in a)"default"!==u&&function(t){n.d(e,t,(function(){return a[t]}))}(u);n("93fa");var o,r=n("f0c5"),c=Object(r["a"])(a["default"],i["b"],i["c"],!1,null,"0dca6f16",null,!1,i["a"],o);e["default"]=c.exports},"93fa":function(t,e,n){"use strict";var i=n("13b0"),a=n.n(i);a.a},ea5a:function(t,e,n){"use strict";n.r(e);var i=n("4922"),a=n.n(i);for(var u in i)"default"!==u&&function(t){n.d(e,t,(function(){return i[t]}))}(u);e["default"]=a.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/u-switch/u-switch-create-component',
+    {
+        'components/u-switch/u-switch-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("581b"))
+        })
+    },
+    [['components/u-switch/u-switch-create-component']]
+]);

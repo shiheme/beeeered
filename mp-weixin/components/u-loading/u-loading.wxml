@@ -1,0 +1,1 @@
+<block wx:if="{{show&&type==='refresh'}}"><bee-icon class="{{['bee-icon','data-v-3f854d08',(ani)?'ani':'']}}" vue-id="2ae992b8-1" name="icon-refresh" bind:__l="__l"></bee-icon></block><block wx:else><block wx:if="{{show&&type==='loading'}}"><view class="{{['u-loading','u-loading-circle','data-v-3f854d08',(ani)?'ani':'']}}" style="{{$root.s0}}"></view></block></block>

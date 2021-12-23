@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "bee-menuclick": "/components/bee-menuclick/bee-menuclick",
+    "bee-block": "/components/bee-block/bee-block",
+    "u-tabs": "/components/u-tabs/u-tabs",
+    "u-loading": "/components/u-loading/u-loading",
+    "bee-content-page": "/components/bee-content-page/bee-content-page"
+  },
+  "component": true
+}

@@ -1,0 +1,1 @@
+<view class="sharearea data-v-78a7cabe"><painter class="painter data-v-78a7cabe" vue-id="38cb1258-1" widthPixels="750" customStyle="{{customStyle}}" palette="{{template}}" data-event-opts="{{[['^imgOK',[['ontell']]],['^imgErr',[['onImgErr']]]]}}" data-com-type="wx" bind:imgOK="__e" bind:imgErr="__e" bind:__l="__l"></painter></view>

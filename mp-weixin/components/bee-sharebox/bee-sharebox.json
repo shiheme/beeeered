@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "bee-shareaimg": "/components/bee-shareaimg/bee-shareaimg",
+    "bee-icon": "/components/bee-icon/bee-icon",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  },
+  "component": true
+}

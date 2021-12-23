@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "bee-block": "/components/bee-block/bee-block",
+    "mp-html": "/components/mp-html/mp-html",
+    "bee-content": "/components/bee-content/bee-content",
+    "bee-load-more": "/components/bee-load-more/bee-load-more"
+  },
+  "component": true
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "bee-icon": "/components/bee-icon/bee-icon"
+  },
+  "component": true
+}
