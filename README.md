@@ -5,7 +5,13 @@
 自行微信中搜索小程序【比比小锦囊】查看效果
 
 
-公众号详细介绍：https://mp.weixin.qq.com/s/8pcwrAQSh-pHuuuPy3IG4A
+公众号详细介绍：  
+https://mp.weixin.qq.com/s/8pcwrAQSh-pHuuuPy3IG4A
+
+导入素材包：  
+https://beebee.work/2021/12/23/bi-bi-xiao-jin-nang-xiao-cheng-xu-zhu-ti-bao/
+
+![比比小锦囊](https://github.com/shiheme/beeeered/blob/main/mini-beebeered-s%402x.png)
 
 ## 解决痛点：
 
